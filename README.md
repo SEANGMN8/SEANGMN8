@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SEANGMN8
 - 👀 I’m interested in music and crypto
 - 🌱 I’m currently learning about the potential of Connected Music
-- 💞️ I’m looking to collaborate on my own projects emanate / moda / Drop
+- 💞️ I’m looking to collaborate on drop.audio and dropcmdk.ai
 - 📫 How to reach me twitter is good (at)srgcollectooor
 
 <!---
